@@ -1,0 +1,11 @@
+
+git init
+
+git add areej.txt
+
+"git commit -m "Initial commit 
+
+git remote add origin https://github.com/0592926832/repo1.git
+
+git push -u origin main
+
